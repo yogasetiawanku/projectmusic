@@ -1,0 +1,317 @@
+.image-intro{
+    background-image: url("../images/bgmusic.jpg");
+    position: absolute;
+    height: 420px;
+    box-shadow: 1px 1px 6px 1px black;
+    width: 520px;
+    background-position: 0px -70px;
+    margin-top: 5px;
+    margin-left: -20px;
+    background-size: cover;
+}
+.image-intro:hover{
+    transform: translateY(50px);
+    -webkit-transform: translateY(50px);
+    -moz-transform: translateY(50px);
+    -ms-transform: translateY(50px);
+    -o-transform: translateY(50px);
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+}
+
+.image-viera{
+    background-image:
+    url("https://cdn.wallpapersafari.com/98/18/hiBWFJ.jpg");
+    width: 600px;
+    height: 400px;
+    margin-left: -80px;
+    background-size: cover;
+    margin-top: 750px;
+    position: absolute;
+    background-position: -10px 10px;
+    opacity: 90%;
+    box-shadow: -0.1px -0.1px 5px 1px rgb(255, 255, 255);
+    filter: blur(0.1px);
+    -webkit-filter: blur(0.1px);
+}
+.image-music-1{
+    background-image: url("https://cdn.wallpapersafari.com/73/81/PuTE1h.jpg");
+    width: 250px;
+    height: 180px;
+    margin-left: 580px;
+    background-size: cover;
+    margin-top: 750px;
+    position: absolute;
+    background-position: -10px 10px;
+    opacity: 90%;
+    box-shadow: -0.1px -0.1px 5px 1px rgb(255, 255, 255);
+}
+.image-music-2{
+    background-image: url("https://swall.teahub.io/photos/small/198-1987095_cool-hd-music-wallpaper-desktop-equaliser-dj-backgrounds.jpg");
+    width: 250px;
+    height: 180px;
+    margin-left: 580px;
+    background-size: cover;
+    margin-top: 969px;
+    position: absolute;
+    background-position: 10px -10px;
+    opacity: 90%;
+    box-shadow: -0.1px -0.1px 5px 1px rgb(255, 255, 255);
+}
+.image-music-3{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZU2ZzKv9iwQkvQe-rQK-wBRmoj0-Jwl15y497Vn5Cbpc_GsTwQsa5CxcAvrlXUDrqTMo&usqp=CAU");
+    width: 250px;
+    height: 180px;
+    margin-left: 870px;
+    background-size: cover;
+    margin-top: 750px;
+    position: absolute;
+    background-position: -20px 1px;
+    opacity: 90%;
+    box-shadow: -0.1px -0.1px 5px 1px rgb(255, 255, 255);
+}
+.image-music-4{
+    background-image: url("https://i.pinimg.com/originals/10/64/19/10641999f605deacadade522f2975ddc.jpg");
+    width: 250px;
+    height: 180px;
+    margin-left: 870px;
+    background-size: cover;
+    margin-top: 969px;
+    position: absolute;
+    background-position: -10px 10px;
+    opacity: 90%;
+    box-shadow: -0.1px -0.1px 5px 1px rgb(255, 255, 255);
+}
+.image-music-viera{
+    background-image: url("https://cdn1-production-images-kly.akamaized.net/IM504utqJ9YlM8MJkXlsy72Jl88=/1231x710/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4212208/original/056018600_1667379738-277906118_1192991454771884_9120936309582714096_n.jpg");
+    width: 550px;
+    height: 400px;
+    margin-left: 550px;
+    background-size: cover;
+    margin-top: 1240px;
+    position: absolute;
+    background-position: -10px -1px;
+    opacity: 90%;
+    box-shadow: -0.1px -0.1px 5px 1px rgb(255, 255, 255);
+}
+.image-music-lastchild{
+    background-image: url("https://t-2.tstatic.net/solo/foto/bank/images/chord-lagu-virgoun.jpg");
+    width: 550px;
+    height: 400px;
+    margin-left: -70px;
+    background-size: cover;
+    margin-top: 1890px;
+    position: absolute;
+    background-position: -10px -1px;
+    opacity: 90%;
+    box-shadow: -0.1px -0.1px 5px 1px rgb(255, 255, 255);
+}
+.image-album-walker{
+    position: absolute;
+    margin-top: 2620px;
+    width: 170px;
+    margin-left: -65px;
+    border-radius: 40px;
+    height: 170px;
+    box-shadow: -0.1px -0.1px 3px 2px white;
+    background-image:
+    url("https://www.kibrispdr.org/data/154/foto-album-alan-walker-5.jpg");
+    background-size: cover;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+.image-album-walker:hover{
+    transform:scale(1.1);
+    -webkit-transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -ms-transform:scale(1.1);
+    -o-transform:scale(1.1);
+}
+.image-album-marsmellow{
+    position: absolute;
+    margin-top: 2620px;
+    width: 170px;
+    margin-left: 140px;
+    border-radius: 40px;
+    height: 170px;
+    box-shadow: -0.1px -0.1px 3px 2px white;
+    background-image:
+    url("https://www.billboard.com/wp-content/uploads/media/marshmello-2019-cr-wme-billboard-1548.jpg?w=942&h=623&crop=1");
+    background-size: cover;
+    background-position: -30px;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+}
+.image-album-marsmellow:hover{
+    transform:scale(1.1);
+    -webkit-transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -ms-transform:scale(1.1);
+    -o-transform:scale(1.1);
+}
+.image-album-tulus{
+    position: absolute;
+    margin-top: 2620px;
+    width: 170px;
+    margin-left: 340px;
+    border-radius: 40px;
+    height: 170px;
+    box-shadow: -0.1px -0.1px 3px 2px white;
+    background-image:
+    url("https://i.scdn.co/image/ab67616d0000b2737c52c7f7d1da8625e4376795");
+    background-size: cover;
+    background-position: -1px;
+    background-repeat: no-repeat;
+}
+.image-album-tulus:hover{
+    transform:scale(1.1);
+    -webkit-transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -ms-transform:scale(1.1);
+    -o-transform:scale(1.1);
+}
+.image-album-nikeardila{
+    position: absolute;
+    margin-top: 2620px;
+    width: 170px;
+    margin-left: 540px;
+    border-radius: 40px;
+    height: 170px;
+    box-shadow: -0.1px -0.1px 3px 2px white;
+    background-image:
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSats94EWGh8wT-53BGbByraExu0zekUFcaEF0jZ_EgNM9f4JXE-nlDSoQCmAIlI0ItRzY&usqp=CAU");
+    background-size: cover;
+    background-position: -1px;
+    background-repeat: no-repeat;
+}
+.image-album-nikeardila:hover{
+    transform:scale(1.1);
+    -webkit-transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -ms-transform:scale(1.1);
+    -o-transform:scale(1.1);
+}
+.image-album-denny{
+    position: absolute;
+    margin-top: 2620px;
+    width: 170px;
+    margin-left: 740px;
+    border-radius: 40px;
+    height: 170px;
+    box-shadow: -0.1px -0.1px 3px 2px white;
+    background-image:
+    url("https://i1.sndcdn.com/artworks-GWYMMjhwXzeU4xG8-PgmTDA-t500x500.jpg");
+    background-size: cover;
+    background-position: -1px;
+    background-repeat: no-repeat;
+}
+.image-album-denny:hover{
+    transform:scale(1.1);
+    -webkit-transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -ms-transform:scale(1.1);
+    -o-transform:scale(1.1);
+}
+.image-album-four{
+    position: absolute;
+    margin-top: 2620px;
+    width: 170px;
+    margin-left: 940px;
+    border-radius: 40px;
+    height: 170px;
+    box-shadow: -0.1px -0.1px 3px 2px white;
+    background-image:
+    url("https://cdns-images.dzcdn.net/images/cover/0fea0608ebca328675f58857d4143d63/264x264.jpg");
+    background-size: cover;
+    background-position: 1px;
+    background-repeat: no-repeat;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+.image-album-four:hover{
+    transform:scale(1.1);
+    -webkit-transform:scale(1.1);
+    -moz-transform:scale(1.1);
+    -ms-transform:scale(1.1);
+    -o-transform:scale(1.1);
+}
+.image-alanxmars{
+    background-image: url("https://wallpapercave.com/wp/wp5092281.jpg");
+    margin-top: 2960px;
+    width: 600px;
+    background-repeat: no-repeat;
+    /* box-shadow: -0.1px -0.1px 3px 2px white; */
+    margin-left: 530px;
+    height: 480px;
+    background-position: -70px;
+    position: absolute;
+    background-size: cover;
+}
+.image-tanpabataswaktu{
+    background-image: url("https://cdn.idntimes.com/content-images/post/20200108/alan-walker-95489ed29d5934f8ad7b34350ffcdf61.jpg");
+    margin-top: 3440px;
+    width: 460px;
+    background-repeat: no-repeat;
+    margin-left: 695px;
+    height: 450px;
+    background-position: -25px;
+    position: absolute;
+    filter: blur(1px);
+    -webkit-filter: blur(1px);
+    background-size: cover;
+}
+.image-tanpabataswaktu:hover{
+    filter: blur(0px);
+    -webkit-filter: blur(0px);
+}
+.image-keisya{
+    background-image: url("https://cdns-images.dzcdn.net/images/artist/6b0dfef477e8064b714a8ba175bfc7c5/500x500.jpg");
+    margin-top: 3440px;
+    width: 460px;
+    background-repeat: no-repeat;
+    margin-left: 288px;
+    height: 450px;
+    background-position: -20px;
+    position: absolute;
+    filter: blur(1px);
+    -webkit-filter: blur(1px);
+    background-size: cover;
+}
+.image-keisya:hover{
+    filter: blur(0px);
+    -webkit-filter: blur(0px);
+}
+.image-aw{
+    background-image: url("https://i1.sndcdn.com/avatars-000603126693-mbb4bv-t500x500.jpg");
+    margin-top: 3440px;
+    width: 410px;
+    background-repeat: no-repeat;
+    margin-left: -98px;
+    height: 450px;
+    background-position: -20px;
+    position: absolute;
+    filter: blur(1px);
+    -webkit-filter: blur(1px);
+    background-size: cover;
+}
+.image-aw:hover{
+    filter: blur(0px);
+    -webkit-filter: blur(0px);
+}
+.image-saran-music{
+    background-image: url("https://cdn.wallpapersafari.com/73/81/PuTE1h.jpg");
+    background-size: cover;
+    width: 280px;
+    height: 250px;
+    margin-top: 4850px;
+    position: absolute;
+}

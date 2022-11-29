@@ -1,0 +1,180 @@
+.container h1{
+    margin-top: -150px;
+    color: rgb(215, 86, 0);
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-family: 'Chicle', cursive;
+    margin-left: -180px;
+    background-attachment: fixed;
+   position: absolute;
+    font-size: 70px;
+}
+.container h2{
+    margin-top: 30px;
+    color: rgb(239, 239, 239);
+    text-shadow: 1px 1px 1px rgb(5, 5, 5);
+    font-family: 'Sofia', cursive;
+    font-weight: 600;
+    margin-left: 5px;
+    font-size: 15px;
+   position: absolute;
+    background-attachment: fixed;
+}
+.container h3{
+    margin-top: -40px;
+   position: absolute;
+    color:rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-family: 'Source Serif Pro', serif;
+    font-weight: 600;
+    margin-left: -70px;
+    font-size: 35px;
+    background-attachment: fixed;
+}
+
+.container button{
+    position: absolute;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    background-color: rgb(255, 34, 0);
+    font-weight: 600;
+    color: aliceblue;
+    margin-left: 65px;
+    margin-top: 85px;
+    text-shadow: 1px 1px 0.1px black;
+}
+
+
+.myVideo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translateY(160px);
+    background-attachment: fixed;
+    opacity: 100%;
+    -webkit-transform: translateY(100px);
+    -moz-transform: translateY(160px);
+    -ms-transform: translateY(160px);
+    -o-transform: translateY(160px);
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #000000;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(104, 49, 0);
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(139, 42, 1);
+}
+
+/* .image-intro{
+    background-image:
+    url('https://i.pinimg.com/564x/ad/03/5c/ad035cd56b6b0fbaf50952160c75594c.jpg');
+    position: fixed;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    border-radius: 60px;
+    justify-content: center;
+    text-align: center;
+    float: center;
+    align-items: center;
+    margin-left: 540px;
+    margin-top: 310px;
+    box-shadow: -0.2px -0.1px 2px 2px rgb(0, 172, 83);
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    -ms-border-radius: 60px;
+    -o-border-radius: 60px;
+    animation: flip 2s infinite
+    ;
+    -webkit-animation: flip 3.5s infinite ;
+} */
+
+@keyframes flip {
+    0%{
+        transform: scale(0.20);
+        -webkit-transform: scale(0.20);
+        -moz-transform: scale(0.20);
+        -ms-transform: scale(0.20);
+        -o-transform: scale(0.20);
+        box-shadow: -0.2px -0.1px 2px 2px rgb(26, 0, 172);
+}
+50%{
+    box-shadow: -0.2px -0.1px 2px 2px rgb(0, 172, 172);
+}
+    100%{
+        transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        -o-transform: scale(1.1);
+        box-shadow: -0.2px -0.1px 2px 2px rgb(0, 172, 14);
+}
+}
+  
+.big{
+    width: 100px;
+    margin-left: 500px;
+    height: 100px;
+    margin-top: 300px;
+}
+@media only screen and (max-width: 600px) {
+    .myVideo {
+      /* background-size: cover; */
+      width: 100%;
+      height: 900px;
+      position: absolute;
+      transform: translateY(-40px);
+      -webkit-transform: translateY(-40px);
+      -moz-transform: translateY(-40px);
+      -ms-transform: translateY(-40px);
+      -o-transform: translateY(-40px);
+    }
+    .container h1{
+        margin-top: -90px;
+        margin-left: -480px;
+        font-size: 30px;
+    }
+    .container h3{
+        margin-top: -40px;
+        margin-left: -455px;
+        font-size: 20px;
+    }
+    .container h2{
+        margin-top: -5px;
+        margin-left: -440px;
+        font-size: 15px;
+    }
+    .container button{
+        position: absolute;
+        margin-left: -375px;
+        margin-top: 25px;
+    }
+    .big{
+        margin-top: 150px;
+    }
+    
+  }

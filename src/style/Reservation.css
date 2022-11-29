@@ -1,0 +1,49 @@
+#text-reser{
+    margin-top: 100px;
+    color: rgb(206, 58, 0);
+    text-shadow: "1px 1px 1px black";
+}
+#text-reser-h3{
+    margin-top: 180px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+.profil-reser{
+    background-size: cover;
+    position: absolute;
+    height: 130px;
+    width: 130px;
+    background-position: -2px -1px;
+    border: solid;
+    border-color: orangered;
+    border-radius: 100px;
+    margin-left: -70px;
+    margin-top: -230px;
+    background-image: url("../images/pp.png");
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.profil-reser:hover{
+    filter: alpha(70%);
+    -webkit-filter: alpha(70%);
+    opacity: 0.70;
+}
+#endres{
+    position: absolute;
+    margin-top: 1750px;
+    width: 100%;
+    font-size: 13px;
+    background-color: rgb(15, 17, 19);
+    color: aliceblue;
+    font-family: 'Sofia', cursive;
+}
+#endres h5{
+    color: white;
+    font-style: italic;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-left: 560px;
+    font-family: 'Sofia', cursive;
+}

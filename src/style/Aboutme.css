@@ -1,0 +1,164 @@
+.bg-about-me{
+    position: absolute;
+    background-color: rgb(6, 4, 18);
+    width: 100%;
+    margin-top: -20px;
+    height: 610vh;
+}
+.bi-music-note-beamed{
+    position: absolute;
+    color: aliceblue;
+    text-shadow: 1px 1px 1px black;
+    margin-left: 80px;
+    margin-top: -25px;
+    font-size: 50px;
+}
+#box-about-one{
+    position: absolute;
+    background-color: rgb(255, 153, 0);
+    height: 775px;
+    margin-top: 30px;
+    width: 650px;
+    margin-left: 530px;
+}
+#image-about-one{
+    position: absolute;
+    background-image: url("https://pophariini.com/wp-content/uploads/2022/10/10-AMI-01.png");
+    width: 610px;
+    margin-left: -80px;
+    background-size: cover;
+    height: 400px;
+    margin-top: 220px;
+}
+#box-about-one h1{
+color: rgb(0, 0, 0);
+margin-left: 90px;
+margin-top: 70px;
+text-shadow: none;
+font-weight: 520;
+font-size: 65px;
+font-family: 'Source Serif Pro', serif;
+}
+#box-about-one h2{
+color: rgb(0, 0, 0);
+margin-left: 90px;
+margin-top: 160px;
+text-shadow: none;
+font-weight: 620;
+font-size: 15px;
+/* font-family: 'Source Serif Pro', serif; */
+}
+#span-about-one{
+color: rgb(0, 0, 0);
+margin-left: 90px;
+margin-top: 200px;
+text-shadow: none;
+font-weight: 620;
+font-size: 15px;
+text-align: left;
+float: left;
+/* font-family: 'Source Serif Pro', serif; */
+}
+#span-about-two{
+color: rgb(0, 0, 0);
+margin-left: 90px;
+margin-top: 40px;
+text-shadow: none;
+font-weight: 620;
+font-size: 15.2px;
+text-align: left;
+float: left;
+/* font-family: 'Source Serif Pro', serif; */
+}
+#box-about-two{
+    position: absolute;
+    background-color: rgb(255, 153, 0);
+    height: 700px;
+    margin-top: 800px;
+    width: 650px;
+    margin-left: -120px;
+}
+#box-about-two h1{
+    color: rgb(0, 0, 0);
+    margin-left: 90px;
+    margin-top: 70px;
+    text-shadow: none;
+    font-weight: 520;
+    font-size: 65px;
+    font-family: 'Source Serif Pro', serif;
+    }
+    #box-about-two h2{
+    color: rgb(0, 0, 0);
+    margin-left: 90px;
+    margin-top: 160px;
+    text-shadow: none;
+    font-weight: 620;
+    font-size: 15px;
+    /* font-family: 'Source Serif Pro', serif; */
+    }
+    #span-about-three{
+    color: rgb(0, 0, 0);
+    margin-left: 90px;
+    margin-top: 200px;
+    text-shadow: none;
+    font-weight: 620;
+    font-size: 14px;
+    text-align: left;
+    float: left;
+    /* font-family: 'Source Serif Pro', serif; */
+    }
+    #span-about-four{
+    color: rgb(0, 0, 0);
+    margin-left: 30px;
+    margin-top: 40px;
+    text-shadow: none;
+    font-weight: 620;
+    font-size: 14px;
+    text-align: left;
+    float: left;
+    /* font-family: 'Source Serif Pro', serif; */
+    }
+#image-about-two{
+    position: absolute;
+    background-image:
+    url("https://hypeabis.id/assets/content/20221122090541000000liamshawNoRFKo74d48unsplash.jpeg");
+    margin-top: 915px;
+    width: 650px;
+    background-size: cover;
+    height: 400px;
+    margin-left: 530px;
+}
+#image-about-two:hover{
+    filter:alpha(opacity=80);
+    -moz-opacity:10;
+    opacity:0.8;
+    -webkit-filter:alpha(opacity=80);
+}
+#image-about-one:hover{
+    filter:alpha(opacity=80);
+    -moz-opacity:10;
+    opacity:0.8;
+    -webkit-filter:alpha(opacity=80);
+}
+#text-stay-one{
+    margin-top: -750px;
+    margin-left: 140px;
+}
+#albums{
+    position: relative;
+    margin-left: -85px;
+}
+#testi-page{
+    margin-top: -1900px;
+    margin-left: 90px;
+}
+#endfooter{
+    margin-top: -2600px;
+}
+#atur-intro-testi{
+    margin-left: 30px;
+}
+.atur-text-stay{
+    margin-left: 30px;
+}
+  

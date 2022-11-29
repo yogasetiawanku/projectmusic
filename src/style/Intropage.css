@@ -1,0 +1,460 @@
+.div2{
+    background-color: rgb(6, 4, 18);
+    margin-top: 50px;
+    min-width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+.h4-intro{
+    color: rgb(244, 244, 244);
+    text-align: center;
+    float: center;
+    justify-items: center;
+    align-items: center;
+    margin-top: 60px;
+    font-size: 39px;
+    color: rgb(215, 86, 0);
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-family: 'Chicle', cursive;
+}
+.h4-intro-2{
+    color: rgb(244, 244, 244);
+    text-align: center;
+    font-size: 60px;
+    font: 3.7em sans-serif;
+    font-family: 'Source Serif Pro', serif;
+    margin-top: 10px;
+}
+
+.div-about{
+    background-color: rgb(255, 155, 32);
+    width: 640px;
+    height: 420px;
+    border-radius: 5px;
+    margin-top: 55px;
+    margin-left: 460px;
+    position: absolute;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.div-about h3{
+    margin-left: 80px;
+    margin-top: 70px;
+    font-size: 70px;
+    color: black;
+    font-family: 'Source Serif Pro', serif;
+    text-shadow: none;
+}
+.div-about h4{
+    margin-left: 80px;
+    margin-top: 170px;
+    font-size: 13px;
+    color: black;
+    text-shadow: none;
+}
+.div-about h5{
+    margin-left: 80px;
+    margin-top: 30px;
+    font-size: 14px;
+    opacity: 70%;
+    color: black;
+    text-shadow: none;
+}
+.div-about a h5{
+    margin-left: 150px;
+    margin-top: 50px;
+    font-size: 18px;
+    opacity: 90%;
+    color: black;
+    text-shadow: none;
+}
+
+.div-about a{
+    text-decoration: none;
+}
+
+#containerr h3{
+    margin-top: 550px;
+    text-align: center;
+    color: rgb(215, 86, 0);
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 350px;
+}
+#containerr h2{
+    margin-top: 620px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-left: 50px;
+}
+#vieralate{
+    margin-top: 120px;
+}
+#vieralate h4{
+    margin-top: 1350px;
+    margin-left: 60px;
+    position: absolute;
+    color: rgb(215, 86, 0);
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-family: 'Chicle', cursive;
+    font-size: 30px;
+}
+#vieralate h3{
+    margin-top: 1400px;
+    margin-left: -60px;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-family: 'Source Serif Pro', serif;
+    font-size: 35px;
+}
+#vieralate h5{
+    margin-top: 1460px;
+    margin-left: 80px;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.long1{
+    width: 80px;
+    height: 2px;
+    margin-left: -10px;
+    margin-top: 1473px;
+    position: absolute;
+    background-color: orangered;
+}
+.long2{
+    width: 80px;
+    height: 2px;
+    margin-left: 260px;
+    margin-top: 1473px;
+    position: absolute;
+    background-color: orangered;
+}
+
+#lastchild h4{
+    margin-top: 2000px;
+    margin-left: 680px;
+    position: absolute;
+    color: rgb(215, 86, 0);
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-family: 'Chicle', cursive;
+    font-size: 30px;
+}
+#lastchild h3{
+    margin-top: 2070px;
+    margin-left: 550px;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-family: 'Source Serif Pro', serif;
+    font-size: 35px;
+}
+#lastchild h5{
+    margin-top: 2140px;
+    margin-left: 680px;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.long3{
+    width: 80px;
+    height: 2px;
+    margin-left: 580px;
+    margin-top: 2153px;
+    position: absolute;
+    background-color: orangered;
+}
+.long4{
+    width: 80px;
+    height: 2px;
+    margin-left: 890px;
+    margin-top: 2153px;
+    position: absolute;
+    background-color: orangered;
+}
+
+#text-stay h3{
+    margin-top: 2380px;
+    position: absolute;
+    text-align: center;
+    float: center;
+    font-family: 'Chicle', cursive;
+    justify-items: center;
+    margin-left: 320px;
+    color: rgb(206, 58, 0);
+    text-shadow: 1px 1px 1px black;
+}
+#text-stay h4{
+    margin-top: 2450px;
+    position: absolute;
+    text-align: center;
+    float: center;
+    font-family: 'Source Serif Pro', serif;
+    justify-items: center;
+    margin-left: 380px;
+    color: rgb(245, 245, 245);
+    text-shadow: 1px 1px 1px black;
+}
+#text-stay .long5{
+    margin-top: 2464px;
+    position: absolute;
+    margin-left: 270px;
+    background-color: rgb(254, 0, 0);
+    width: 100px;
+    height: 2px;
+}
+#text-stay .long6{
+    margin-top: 2464px;
+    position: absolute;
+    margin-left: 555px;
+    background-color: rgb(254, 0, 0);
+    width: 100px;
+    height: 2px;
+}
+
+#text-stay h1{
+    margin-top: 2500px;
+    position: absolute;
+    text-align: center;
+    float: center;
+    font-family: 'Source Serif Pro', serif;
+    justify-items: center;
+    margin-left: 100px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px black;
+}
+
+#text-alanxmars h3{
+    margin-top: 3100px;
+    position: absolute;
+    text-align: center;
+    float: center;
+    font-family: 'Chicle', cursive;
+    justify-items: center;
+    margin-left: 15px;
+    color: rgb(206, 58, 0);
+    text-shadow: 1px 1px 1px black;
+}
+#text-alanxmars h4{
+    margin-top: 3220px;
+    position: absolute;
+    text-align: center;
+    float: center;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+    justify-items: center;
+    margin-left: 50px;
+    color: rgb(245, 245, 245);
+    text-shadow: 1px 1px 1px black;
+}
+#text-alanxmars .long7{
+    margin-top: 3232px;
+    position: absolute;
+    margin-left: 305px;
+    background-color: rgb(254, 0, 0);
+    width: 100px;
+    height: 2px;
+}
+#text-alanxmars .long8{
+    margin-top: 3232px;
+    position: absolute;
+    margin-left: -60px;
+    background-color: rgb(254, 0, 0);
+    width: 100px;
+    height: 2px;
+}
+
+#text-alanxmars h1{
+    margin-top: 3158px;
+    position: absolute;
+    text-align: center;
+    font-weight: 800;
+    float: center;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 22px;
+    justify-items: center;
+    margin-left: -100px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px black;
+}
+
+#saran h3{
+    margin-top: 4820px;
+    position: absolute;
+    margin-left: 330px;
+    color: rgb(206, 58, 0);
+    text-shadow: 1px 1px 1px black;
+    font-family: 'Chicle', cursive;
+}
+.atur-posisi-img{
+    margin-left: -20px;
+}
+/* #saran{
+    margin-top: 200px;
+} */
+#saran h4{
+    margin-top: 4860px;
+    position: absolute;
+    font-size: 49px;
+    font-weight: bold;
+    margin-left: 330px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px black;
+    font-family: 'Source Serif Pro', serif;
+}
+#saran h5{
+    margin-top: 4930px;
+    position: absolute;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 330px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px black;
+    font-family: 'Source Serif Pro', serif;
+}
+#saran h2{
+    margin-top: 5057px;
+    position: absolute;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 352px;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px black;
+    font-family: 'Source Serif Pro', serif;
+}
+#saran .saran-input{
+    background-color: aliceblue;
+    position: absolute;
+    margin-top: 4980px;
+    margin-left: 325px;
+    height: 60px;
+    color: tomato;
+    padding-left: 10px;
+    width: 600px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+#saran button{
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 4995px;
+    margin-left: 800px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+#checkbox{
+    border: 0.15em solid currentColor;
+    border-radius: 0.15em;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 5055px;
+    margin-left: 326px;
+    height: 20px;
+    width: 20px;
+    transform-origin: bottom left;
+    /* clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%); */
+}
+#intro-testi h5{
+    position: absolute;
+    margin-top: 4030px;
+    text-align: center;
+    margin-left: 245px;
+    font-size: 35px;
+    align-items: center;
+    color: aliceblue;
+    font-family: 'Chicle', cursive;
+}
+#intro-testi h4{
+    position: absolute;
+    margin-top: 4100px;
+    text-align: center;
+    margin-left: 300px;
+    font-weight: 500;
+    font-size: 65px;
+    align-items: center;
+    color: aliceblue;
+    font-family: 'Source Serif Pro', serif;
+}
+#span1{
+    position: absolute;
+    margin-top: 4250px;
+    text-align: center;
+    margin-left: -70px;
+    font-weight: 800;
+    font-size: 14px;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Source Serif Pro', serif;
+}
+#span2{
+    position: absolute;
+    margin-top: 4250px;
+    text-align: center;
+    margin-left: 580px;
+    font-weight: 800;
+    font-size: 14px;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Source Serif Pro', serif;
+}
+#span3{
+    position: absolute;
+    margin-top: 4500px;
+    text-align: center;
+    margin-left: -70px;
+    font-weight: 800;
+    font-size: 14px;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Source Serif Pro', serif;
+}
+#span4{
+    position: absolute;
+    margin-top: 4500px;
+    text-align: center;
+    margin-left: 580px;
+    font-weight: 800;
+    font-size: 14px;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Source Serif Pro', serif;
+}
+
+#myVideo{
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-width: 100%;
+        min-height: 100%;
+        transform: translateY(160px);
+        background-attachment: fixed;
+        opacity: 100%;
+        -webkit-transform: translateY(160px);
+        -moz-transform: translateY(160px);
+        -ms-transform: translateY(160px);
+        -o-transform: translateY(160px);
+}
